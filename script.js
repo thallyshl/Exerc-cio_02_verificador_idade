@@ -36,5 +36,4 @@ function verificar() {
     }
     
     res.innerHTML = `Detectamos uma pessoa do sexo ${genero} com ${finalAge} anos!`
-    console.log (document.getElementById ('image').src)
 }
