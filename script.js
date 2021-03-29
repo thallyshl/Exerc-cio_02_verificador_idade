@@ -30,7 +30,7 @@ function verificar() {
             } else if (finalAge > 18 && finalAge <= 30) {
                 document.getElementById ('image').src ='images/jovem_m.jpg'
             } else {
-                document.getElementById ('image').src ='images/velho_m.jpg'
+                document.getElementById ('image').src ='images/Velho_m.jpg'
             }
         }
     }
